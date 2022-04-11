@@ -1,0 +1,22 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "---\r ## Display a clock",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pris-Cila/Assignment1.git"
+  },
+  "author": "Priscilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pris-Cila/Assignment1/issues"
+  },
+  "homepage": "https://github.com/Pris-Cila/Assignment1#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
